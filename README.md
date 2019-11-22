@@ -9,7 +9,9 @@
 1. 提交类型（考试/复习资料/课件/答案）
 2. 来源（上课群/学长/网上资料）
 
-## 资源使用的协议
-资源不允许用于商业用途，遵循`CC BY-NC-ND 2.5`协议[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+## 版权说明
+资源不允许用于商业用途，遵循`CC BY-NC-SA 4.0`协议[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## 此Repo不对资源的正确性以及合法性负责，如果有侵权行为请联系`superstarhackboy@gmail.com`
+请创作者及公众监督，如有资料违反许可协议，请告知我们改正错误。
+
+此Repo不对资源的正确性以及合法性负责，如果有侵权行为请联系`superstarhackboy@gmail.com`
